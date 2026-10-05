@@ -1,9 +1,9 @@
 **# FitZone Gym Website
 
 Team Members:
-- Project Manager: Your Name
-- Developer: Member 1
-- SQA: Member 2
+- Project Manager:Fizza Qadeer
+- Developer:Uswa Noor
+- SQA:Raffia Raheem
 
 Features:
 - Gym Facilities
