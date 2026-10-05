@@ -339,7 +339,19 @@ footer{
   }
 
 }
-.btn:hover {
-    background: #ff7733;
-    transform: scale(1.05);
+.social-links {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.social-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.social-links a:hover {
+  color: #ff5500;
 }
