@@ -339,3 +339,7 @@ footer{
   }
 
 }
+.btn:hover {
+    background: #ff7733;
+    transform: scale(1.05);
+}
